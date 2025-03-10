@@ -1,5 +1,4 @@
 import streamlit as st
-import seaborn as sns
 import plotly.express as px
 import time
 import random
